@@ -3,7 +3,7 @@
     "path": "~/GitHub/Cesartoteles.github.io/_posts/2022-09-15-fiestas-patrias/fiestas-patrias.Rmd",
     "project_path": "_posts/2022-09-15-fiestas-patrias/fiestas-patrias.Rmd",
     "type": "r_markdown",
-    "hash": "644975144",
+    "hash": "45230356",
     "contents": "",
     "dirty": false,
     "created": 1663288748898.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,18",
-        "scrollLine": "6"
+        "cursorPosition": "22,0",
+        "scrollLine": "7"
     },
     "folds": "",
-    "lastKnownWriteTime": 1663290452,
+    "lastKnownWriteTime": 1663290573,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663290452223,
+    "last_content_update": 1663290573937,
     "read_only": false,
     "read_only_alternatives": []
 }

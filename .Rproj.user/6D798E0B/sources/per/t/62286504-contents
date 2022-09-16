@@ -19,3 +19,5 @@ knitr::opts_chunk$set(echo = FALSE)
 Distill is a publication format for scientific and technical writing, native to the web.
 
 Me gusta el helado
+rmarkdown::render_site()
+
