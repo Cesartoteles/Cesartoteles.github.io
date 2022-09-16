@@ -1,5 +1,0 @@
-"0","df_lapop_chile <- readRDS(""/lapop_chile_220824.rds"")
-"
-"2","Warning: cannot open compressed file '/lapop_chile_220824.rds', probable reason 'No such file or directory'"
-"2","Error in gzfile(file, ""rb"") : cannot open the connection
-"
