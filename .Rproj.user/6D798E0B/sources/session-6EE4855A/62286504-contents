@@ -1,0 +1,21 @@
+---
+title: "Fiestas Patrias"
+description: |
+  En esta clase aprendimos a hacer post en el blog.
+author:
+  - name: César Flores Verdugo
+    url: https://cesartoteles.github.io
+date: 2022-09-15
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+

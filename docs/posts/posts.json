@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2022-09-15T21:33:26-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2022-09-15-fiestas-patrias/",
+    "title": "Fiestas Patrias",
+    "description": "En esta clase aprendimos a hacer post en el blog.",
+    "author": [
+      {
+        "name": "César Flores Verdugo",
+        "url": "https://cesartoteles.github.io"
+      }
+    ],
+    "date": "2022-09-15",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-09-15T21:55:23-03:00",
+    "input_file": "fiestas-patrias.knit.md"
   }
 ]
