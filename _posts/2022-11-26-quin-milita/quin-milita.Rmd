@@ -1,0 +1,22 @@
+---
+title: "¿Quién milita? (Parte 1)"
+description: |
+  Empezemos a entender quiénes componen partidos políticos.
+author:
+  - name: César Flores Verdugo
+    url: https://Cesartoteles.github.io
+date: 2022-11-26
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+AL revisar la literatura, nos podemos encontrar con distintas explicaciones sobre quienes militan y por qué lo hacen. En este caso, una pequeña mención de literatura.
+De acuerdo a lo expresado (Scarrow, 2022), la militancia está desproporcionadamente compuesta por hombres de altos niveles educativos y económicos. Esto se repite a través de diversos países. Las hipótesis ahí planteadas pueden verificarse fácilmente en términos de edad y de género, por lo que pronto deberíamos poder comprobar si es el caso en Chile. Preliminarmente, con el Partido de la Gente, que es predominantemente masculino, esto parece confirmarse. Sin embargo, pronto deberíamos poder evaluar esta preconcepción con nuestra base de datos del Servel.
+
+Scarrow, S.  The Changing Nature of Political Party Membership. Oxford Research Encyclopedia of Politics. Retrieved 26 Nov. 2022, from https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-226.

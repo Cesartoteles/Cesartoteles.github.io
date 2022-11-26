@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-11-26-quin-milita/",
+    "title": "¿Quién milita? (Parte 1)",
+    "description": "Empezemos a entender quiénes componen partidos políticos.",
+    "author": [
+      {
+        "name": "César Flores Verdugo",
+        "url": "https://Cesartoteles.github.io"
+      }
+    ],
+    "date": "2022-11-26",
+    "categories": [],
+    "contents": "\r\nAL revisar la literatura, nos podemos encontrar con distintas\r\nexplicaciones sobre quienes militan y por qué lo hacen. En este caso,\r\nuna pequeña mención de literatura. De acuerdo a lo expresado (Scarrow,\r\n2022), la militancia está desproporcionadamente compuesta por hombres de\r\naltos niveles educativos y económicos. Esto se repite a través de\r\ndiversos países. Las hipótesis ahí planteadas pueden verificarse\r\nfácilmente en términos de edad y de género, por lo que pronto deberíamos\r\npoder comprobar si es el caso en Chile. Preliminarmente, con el Partido\r\nde la Gente, que es predominantemente masculino, esto parece\r\nconfirmarse. Sin embargo, pronto deberíamos poder evaluar esta\r\npreconcepción con nuestra base de datos del Servel.\r\nScarrow, S. The Changing Nature of Political Party Membership. Oxford\r\nResearch Encyclopedia of Politics. Retrieved 26 Nov. 2022, from https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-226.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-11-26T16:23:41-03:00",
+    "input_file": "quin-milita.knit.md"
+  },
+  {
     "path": "posts/2022-11-25-post/",
     "title": "Voy a salvar el ramo",
     "description": "Esto debi hacerlo hace un mes.",
