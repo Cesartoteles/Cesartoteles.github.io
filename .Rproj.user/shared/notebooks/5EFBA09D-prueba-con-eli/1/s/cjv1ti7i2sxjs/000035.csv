@@ -1,0 +1,12 @@
+"0","ggplot(militancia_total %>% 
+  group_by(sexo, anio) %>% 
+  summarise(total_sexo = sum(total)),
+  aes(fill=sexo, y = total_sexo, x = anio)) +
+  geom_bar(position = ""dodge"", stat = ""identity"") +
+  scale_x_continuous(breaks = (2016:2022))+
+  scale_fill_discrete(labels=c(""Mujeres"", ""Varones""))+
+  labs(title = ""Participación comparada con sexo"",
+       x  = ""Año"",
+       y = """")
+"
+"2","`summarise()` has grouped output by 'sexo'. You can override using the `.groups` argument."

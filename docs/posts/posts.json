@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-11-28-prueba-con-eli/",
+    "title": "Prueba con Eli",
+    "description": "Estuvimos limpiando bases de datos. Luego, tratamos de averiguar si lo previamente establecido se cumplía.",
+    "author": [
+      {
+        "name": "César Flores Verdugo",
+        "url": "https://Cesartoteles.github.io"
+      }
+    ],
+    "date": "2022-11-28",
+    "categories": [],
+    "contents": "\r\nPrimero hubo que limpiar mucho la base de datos porque EL SERVEL NO\r\nMANTIENE CONSISTENCIA EN LOS NOMBRES DE LOS PARTIDOS.\r\nConcretamente entre la unión patriótica y el partido unión\r\npatriótica, el demócrata cristiano y el partido demócrata cristiano,\r\nliberal y radical. Ademá hubo que recodificar partidos que nada más\r\ncambiaron de nombre. Y decidí considerar partidos que se unificaron,\r\ncomo el MAS y la izquierda ciudadana, como un sólo partido, ya que si\r\ndos colectividades se unen su número de militantes no debería variar.\r\nFue bastante trabajo hacer todo eso pa ponerlo en un puro excel.\r\nLuego estuvimos analizando con Eli los datos recopilados\r\n\r\n\r\n\r\nGráficos para\r\ncomprobar hipótesis previas\r\n\r\n# A tibble: 14 × 3\r\n# Groups:   sexo [2]\r\n   sexo   anio total_sexo\r\n   <chr> <dbl>      <dbl>\r\n 1 M      2016     480773\r\n 2 M      2017     652682\r\n 3 M      2018     612139\r\n 4 M      2019     510187\r\n 5 M      2020     450907\r\n 6 M      2021     299905\r\n 7 M      2022     203261\r\n 8 V      2016     471245\r\n 9 V      2017     617144\r\n10 V      2018     575638\r\n11 V      2019     485866\r\n12 V      2020     434741\r\n13 V      2021     312920\r\n14 V      2022     229386\r\n\r\n\r\nPodemos ver que la hipótesis previamente señalada no se sostiene,\r\npues durante la mayoría de los años las mujeres conforman la mayoría de\r\nla militancia política.\r\n\r\n# A tibble: 7 × 3\r\n   anio `sum(x18_19)` `sum(x20_24)`\r\n  <dbl>         <dbl>         <dbl>\r\n1  2016          8598         47171\r\n2  2017         25494        110005\r\n3  2018          6667        101382\r\n4  2019          1140         76305\r\n5  2020          3870         69802\r\n6  2021          3812         54616\r\n7  2022          1035         24571\r\n\r\n\r\nLo primero que se puede observar es que no se confirma la hipótesis\r\nde que sean los hombres quienes más militan, ya que de los 7 años\r\nestudiados, 5 presentan más militantes mujeres. Sin embargo, la mayor\r\npresencia masculina parece estarse afianzando en los últimos años.\r\nEl segundo gráfico también nos muestra que, si bien anteriormente la\r\nmilitancia se concentrabaen sectores relativamente mayores de la\r\npoblación, en la actualidad se concentra en partes más jóvenes. Habría\r\nque estudiar más a fondo la razón de esta tendencia.\r\nLa conclusión, al menos por ahora, parece ser que las conclusiones\r\ninternacionales no aplican para entender la militancia en Chile. El caso\r\nes que el género no es el predictor más seguro, y la edad no parece\r\nfuncionar como la esperábamos. Si bien la participación ha bajado a\r\nnivel nacional, es claro que no son las personas mayores quienes\r\nsostienen este espacio, aún cuando nuestro país está envejeciendo, lo\r\nque debería aumentar la proporción de personas en esos rangos etarios e,\r\nhipotéticamente, aumentar su participación como porcentaje del total de\r\nmilitantes.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-11-28-prueba-con-eli/prueba-con-eli_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2022-12-02T17:45:15-03:00",
+    "input_file": "prueba-con-eli.knit.md"
+  },
+  {
     "path": "posts/2022-11-26-quin-milita/",
     "title": "¿Quién milita? (Parte 1)",
     "description": "Empezemos a entender quiénes componen partidos políticos.",
